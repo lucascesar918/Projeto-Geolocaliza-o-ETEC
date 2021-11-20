@@ -1,0 +1,7 @@
+{
+  "name": "geolocalizacao",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
